@@ -7,3 +7,9 @@ This contains:
 1. Babbel
 2. Webpack
 3. React
+
+Also contains small tools:
+
+1. prettier and husky (format when you push)
+2. .gitignore
+3. renovate bot config

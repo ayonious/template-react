@@ -30,4 +30,4 @@ npm install
 npm run build
 ```
 
-Then open the index.html file on your browser
+Then open the dist/index.html file on your browser

@@ -25,15 +25,15 @@ Also contains small tools:
 ### Devmode
 
 ```bash
-npm install
-npm run start
+yarn install
+yarn start
 ```
 
 ### Make Production build
 
 ```bash
-npm install
-npm run build
+yarn install
+yarn build
 ```
 
 Then open the dist/index.html file on your browser
